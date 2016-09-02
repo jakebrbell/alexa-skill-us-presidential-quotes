@@ -1,0 +1,8 @@
+GetNewQuoteIntent a quote
+GetNewQuoteIntent a presidential quote
+GetNewQuoteIntent tell me a quote
+GetNewQuoteIntent tell me a presidential quote
+GetNewQuoteIntent give me a quote
+GetNewQuoteIntent give me a presidential quote
+GetNewQuoteIntent tell me something
+GetNewQuoteIntent give me something
